@@ -1,2 +1,2 @@
-# world_clack
-I developed this  world clack using html,css,js 
+# world_clocl
+I developed this  world clock using html,css,js 
